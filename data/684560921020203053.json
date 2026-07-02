@@ -1,8 +1,10 @@
-{
-	"name": "acid",
-	"id": "684560921020203053",
-	"url": {
-		"dark": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/684560921020203053.gif",
-		"light": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/684560921020203053.gif"
+[
+	{
+		"name": "Enmity Supporter",
+		"badge": "https://enmity.equicord.org/assets/supporter.png"
+	},
+	{
+		"name": "acid",
+		"badge": "https://enmity.equicord.org/assets/684560921020203053.gif"
 	}
-}
+]

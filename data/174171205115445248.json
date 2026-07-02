@@ -1,8 +1,10 @@
-{
-	"name": "Damn.",
-	"id": "174171205115445248",
-	"url": {
-		"dark": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/174171205115445248.gif",
-		"light": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/174171205115445248.gif"
+[
+	{
+		"name": "Enmity Supporter",
+		"badge": "https://enmity.equicord.org/assets/supporter.png"
+	},
+	{
+		"name": "Damn.",
+		"badge": "https://enmity.equicord.org/assets/174171205115445248.gif"
 	}
-}
+]

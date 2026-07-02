@@ -1,8 +1,10 @@
-{
-	"name": "Star Hunter",
-	"id": "934920389795139615",
-	"url": {
-		"dark": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/934920389795139615.PNG",
-		"light": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/934920389795139615.PNG"
+[
+	{
+		"name": "Enmity Supporter",
+		"badge": "https://enmity.equicord.org/assets/supporter.png"
+	},
+	{
+		"name": "Star Hunter",
+		"badge": "https://enmity.equicord.org/assets/934920389795139615.PNG"
 	}
-}
+]

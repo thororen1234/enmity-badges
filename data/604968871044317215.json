@@ -1,8 +1,10 @@
-{
-	"name": "kirby",
-	"id": "604968871044317215",
-	"url": {
-		"dark": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/604968871044317215.png",
-		"light": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/604968871044317215.png"
+[
+	{
+		"name": "Enmity Supporter",
+		"badge": "https://enmity.equicord.org/assets/supporter.png"
+	},
+	{
+		"name": "kirby",
+		"badge": "https://enmity.equicord.org/assets/604968871044317215.png"
 	}
-}
+]

@@ -1,0 +1,14 @@
+[
+	{
+		"name": "Enmity Developer",
+		"badge": "https://enmity.equicord.org/assets/dev.png"
+	},
+	{
+		"name": "Enmity Staff",
+		"badge": "https://enmity.equicord.org/assets/staff.png"
+	},
+	{
+		"name": "Enmity Contributor",
+		"badge": "https://enmity.equicord.org/assets/contributor.png"
+	}
+]

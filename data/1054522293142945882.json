@@ -1,8 +1,14 @@
-{
-	"name": "weirdspongebob",
-	"id": "1054522293142945882",
-	"url": {
-		"dark": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/1054522293142945882.jpg",
-		"light": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/1054522293142945882.jpg"
+[
+	{
+		"name": "Enmity Supporter",
+		"badge": "https://enmity.equicord.org/assets/supporter.png"
+	},
+	{
+		"name": "weirdspongebob",
+		"badge": "https://enmity.equicord.org/assets/1054522293142945882.jpg"
+	},
+	{
+		"name": "Sillyfangirl",
+		"badge": "https://enmity.equicord.org/assets/1054522293142945882-2.gif"
 	}
-}
+]

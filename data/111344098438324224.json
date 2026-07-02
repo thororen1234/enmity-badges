@@ -1,8 +1,14 @@
-{
-	"name": "MtF",
-	"id": "111344098438324224",
-	"url": {
-		"dark": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/111344098438324224.png",
-		"light": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/111344098438324224.png"
+[
+	{
+		"name": "Enmity Supporter",
+		"badge": "https://enmity.equicord.org/assets/supporter.png"
+	},
+	{
+		"name": "MtF",
+		"badge": "https://enmity.equicord.org/assets/111344098438324224.png"
+	},
+	{
+		"name": "Kayden",
+		"badge": "https://enmity.equicord.org/assets/111344098438324224-2.gif"
 	}
-}
+]

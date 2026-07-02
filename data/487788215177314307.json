@@ -1,8 +1,10 @@
-{
-	"name": "trans flag",
-	"id": "487788215177314307",
-	"url": {
-		"dark": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/487788215177314307.png",
-		"light": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/487788215177314307.png"
+[
+	{
+		"name": "Enmity Supporter",
+		"badge": "https://enmity.equicord.org/assets/supporter.png"
+	},
+	{
+		"name": "trans flag",
+		"badge": "https://enmity.equicord.org/assets/487788215177314307.png"
 	}
-}
+]

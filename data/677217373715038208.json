@@ -1,8 +1,10 @@
-{
-	"name": "kubs",
-	"id": "677217373715038208",
-	"url": {
-		"dark": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/677217373715038208.png",
-		"light": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/677217373715038208.png"
+[
+	{
+		"name": "Enmity Supporter",
+		"badge": "https://enmity.equicord.org/assets/supporter.png"
+	},
+	{
+		"name": "kubs",
+		"badge": "https://enmity.equicord.org/assets/677217373715038208.png"
 	}
-}
+]

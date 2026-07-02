@@ -1,8 +1,18 @@
-{
-	"name": "Zoey",
-	"id": "89117667050426368",
-	"url": {
-		"dark": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/89117667050426368.png",
-		"light": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/89117667050426368.png"
+[
+	{
+		"name": "Enmity Developer",
+		"badge": "https://enmity.equicord.org/assets/dev.png"
+	},
+	{
+		"name": "Enmity Staff",
+		"badge": "https://enmity.equicord.org/assets/staff.png"
+	},
+	{
+		"name": "Enmity Contributor",
+		"badge": "https://enmity.equicord.org/assets/contributor.png"
+	},
+	{
+		"name": "Zoey",
+		"badge": "https://enmity.equicord.org/assets/89117667050426368.png"
 	}
-}
+]

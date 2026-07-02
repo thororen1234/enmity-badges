@@ -1,8 +1,10 @@
-{
-	"name": "science gud",
-	"id": "223167986423431178",
-	"url": {
-		"dark": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/223167986423431178.gif",
-		"light": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/223167986423431178.gif"
+[
+	{
+		"name": "Enmity Supporter",
+		"badge": "https://enmity.equicord.org/assets/supporter.png"
+	},
+	{
+		"name": "science gud",
+		"badge": "https://enmity.equicord.org/assets/223167986423431178.gif"
 	}
-}
+]

@@ -1,8 +1,10 @@
-{
-	"name": "NSFW",
-	"id": "991196127070277653",
-	"url": {
-		"dark": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/991196127070277653.gif",
-		"light": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/991196127070277653.gif"
+[
+	{
+		"name": "Enmity Supporter",
+		"badge": "https://enmity.equicord.org/assets/supporter.png"
+	},
+	{
+		"name": "NSFW",
+		"badge": "https://enmity.equicord.org/assets/991196127070277653.gif"
 	}
-}
+]

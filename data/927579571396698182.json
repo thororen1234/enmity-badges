@@ -1,8 +1,10 @@
-{
-	"name": "Sylveon Loaf",
-	"id": "927579571396698182",
-	"url": {
-		"dark": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/927579571396698182.png",
-		"light": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/927579571396698182.png"
+[
+	{
+		"name": "Enmity Supporter",
+		"badge": "https://enmity.equicord.org/assets/supporter.png"
+	},
+	{
+		"name": "Sylveon Loaf",
+		"badge": "https://enmity.equicord.org/assets/927579571396698182.png"
 	}
-}
+]

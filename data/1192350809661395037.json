@@ -1,8 +1,10 @@
-{
-	"name": "Awesomesauce",
-	"id": "1192350809661395037",
-	"url": {
-		"dark": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/1192350809661395037.gif",
-		"light": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/1192350809661395037.gif"
+[
+	{
+		"name": "Enmity Supporter",
+		"badge": "https://enmity.equicord.org/assets/supporter.png"
+	},
+	{
+		"name": "Awesomesauce",
+		"badge": "https://enmity.equicord.org/assets/1192350809661395037.gif"
 	}
-}
+]

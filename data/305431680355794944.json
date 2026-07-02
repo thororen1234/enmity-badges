@@ -1,8 +1,10 @@
-{
-	"name": "sharky",
-	"id": "305431680355794944",
-	"url": {
-		"dark": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/305431680355794944.png",
-		"light": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/305431680355794944.png"
+[
+	{
+		"name": "Enmity Supporter",
+		"badge": "https://enmity.equicord.org/assets/supporter.png"
+	},
+	{
+		"name": "sharky",
+		"badge": "https://enmity.equicord.org/assets/305431680355794944.png"
 	}
-}
+]

@@ -1,8 +1,10 @@
-{
-	"name": "Hello, Oink Speaking 🐷",
-	"id": "156177193037201408",
-	"url": {
-		"dark": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/156177193037201408.gif",
-		"light": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/156177193037201408.gif"
+[
+	{
+		"name": "Enmity Supporter",
+		"badge": "https://enmity.equicord.org/assets/supporter.png"
+	},
+	{
+		"name": "Hello, Oink Speaking 🐷",
+		"badge": "https://enmity.equicord.org/assets/156177193037201408.gif"
 	}
-}
+]

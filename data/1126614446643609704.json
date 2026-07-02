@@ -1,8 +1,10 @@
-{
-	"name": "NWS Skywarn Certified",
-	"id": "1126614446643609704",
-	"url": {
-		"dark": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/1126614446643609704.png",
-		"light": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/1126614446643609704.png"
+[
+	{
+		"name": "Enmity Supporter",
+		"badge": "https://enmity.equicord.org/assets/supporter.png"
+	},
+	{
+		"name": "NWS Skywarn Certified",
+		"badge": "https://enmity.equicord.org/assets/1126614446643609704.png"
 	}
-}
+]

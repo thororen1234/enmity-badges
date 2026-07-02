@@ -1,8 +1,14 @@
-{
-	"name": "Bug Catcher",
-	"id": "1258172662254141603",
-	"url": {
-		"dark": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/1258172662254141603.png",
-		"light": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/1258172662254141603.png"
+[
+	{
+		"name": "Enmity Supporter",
+		"badge": "https://enmity.equicord.org/assets/supporter.png"
+	},
+	{
+		"name": "Bug Catcher",
+		"badge": "https://enmity.equicord.org/assets/1258172662254141603.png"
+	},
+	{
+		"name": "Netsphere Team",
+		"badge": "https://enmity.equicord.org/assets/1258172662254141603-2.png"
 	}
-}
+]

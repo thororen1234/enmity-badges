@@ -1,8 +1,14 @@
-{
-	"name": "HFS Owner",
-	"id": "707320830387814531",
-	"url": {
-		"dark": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/707320830387814531.png",
-		"light": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/707320830387814531.png"
+[
+	{
+		"name": "Enmity Supporter",
+		"badge": "https://enmity.equicord.org/assets/supporter.png"
+	},
+	{
+		"name": "HFS Owner",
+		"badge": "https://enmity.equicord.org/assets/707320830387814531.png"
+	},
+	{
+		"name": "35P",
+		"badge": "https://enmity.equicord.org/assets/707320830387814531-2.gif"
 	}
-}
+]
